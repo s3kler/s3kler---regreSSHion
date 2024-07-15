@@ -40,13 +40,13 @@ This tool checks the version of OpenSSH running on specified hosts and ports and
 2. Run the script with the filename and ports as arguments:
 
     ```bash
-    python ssh_version_check.py <filename> <ports>
+    python s3kler---regreSSHion.py <filename> <ports>
     ```
 
     Example:
 
     ```bash
-    python ssh_version_check.py hosts.txt 22,2222
+    python s3kler---regreSSHion.py hosts.txt 22,2222
     ```
 
     This will check the SSH version on the hosts specified in `hosts.txt` on ports 22 and 2222.

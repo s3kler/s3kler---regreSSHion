@@ -35,7 +35,6 @@ This tool checks the version of OpenSSH running on specified hosts and ports and
     192.168.1.1
     192.168.1.2
     192.168.1.3
-    
     ```
 
 2. Run the script with the filename and ports as arguments:

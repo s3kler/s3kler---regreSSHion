@@ -1,5 +1,5 @@
 # s3kler - regreSSHion
-This tool checks the version of OpenSSH running on specified hosts and ports and determines if they are potentially vulnerable.
+This tool checks the version of OpenSSH running on specified hosts and ports and determines if they are potentially vulnerable to regreSSHion Remote Unauthenticated Code Execution CVE-2024-6387
 
 ## Features
 

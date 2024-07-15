@@ -17,7 +17,7 @@ This tool checks the version of OpenSSH running on specified hosts and ports and
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/openssh-version-checker.git
+    https://github.com/s3kler/s3kler---regreSSHion.git
     cd openssh-version-checker
     ```
 

@@ -29,12 +29,13 @@ This tool checks the version of OpenSSH running on specified hosts and ports and
 
 ## Usage
 
-1. Create a file containing the list of hostnames or IP addresses, one per line. For example, `hosts.txt`:
+1. Create a file containing the list of IP addresses, one per line. For example, `hosts.txt`:
 
     ```
-    host1.example.com
-    host2.example.com
     192.168.1.1
+    192.168.1.2
+    192.168.1.3
+    
     ```
 
 2. Run the script with the filename and ports as arguments:

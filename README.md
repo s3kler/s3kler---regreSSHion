@@ -18,7 +18,7 @@ This tool checks the version of OpenSSH running on specified hosts and ports and
 
     ```bash
     git clone https://github.com/s3kler/s3kler---regreSSHion.git
-    s3kler---regreSSHion
+    cd s3kler---regreSSHion
     ```
 
 2. Install the required Python package:
